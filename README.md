@@ -17,7 +17,3 @@
 
 * 📧 Email: [jeyadharshini85@gmail.com](mailto:jeyadharshini85@gmail.com)
 
----
-
-⭐️ From [gayathri_0828](https://github.com/gayathri_0828)
-
