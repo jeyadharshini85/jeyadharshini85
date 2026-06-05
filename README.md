@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gayathri</h1>
 
-<!--
-**jeyadharshini85/jeyadharshini85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Sc. Computer Science (AI) Student
+💻 Aspiring Full Stack Developer
+🚀 Currently building Academic Portal – College Management System
+🌱 Learning MERN Stack & Advanced Backend Development
 
-Here are some ideas to get you started:
+### 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend**: React.js, HTML, CSS, JavaScript, Tailwind CSS
+* **Backend**: Node.js, Express.js
+* **Database**: MySQL
+* **Tools**: Git & GitHub, Postman, VS Code
+* **Authentication**: JWT
+
+### 📬 Connect with me
+
+* 📧 Email: [jeyadharshini85@gmail.com](mailto:jeyadharshini85@gmail.com)
+
+---
+
+⭐️ From [gayathri_0828](https://github.com/gayathri_0828)
+
